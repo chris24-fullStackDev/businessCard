@@ -16,14 +16,14 @@ body {
 }
 
 .card {
-    width: 400px;
     background-image: url("https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/200.webp?cid=ecf05e471t6hf8s2sz9n3sxd6e6ymixbr3hohao0c86153ir&ep=v1_gifs_related&rid=200.webp&ct=g");
+    width: 400px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
     text-align: left;
-    color: #03045e;
+    color: #a4a5eb;
     border-top: 6px solid #03045e;
     box-shadow: 0 0 8px #5e60ce ;
         
